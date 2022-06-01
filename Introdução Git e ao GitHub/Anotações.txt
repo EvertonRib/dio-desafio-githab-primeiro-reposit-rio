@@ -10,5 +10,8 @@ Para adicionar ao Repositório Git/GitHub.
 
 git commit -m "Inclusão das anotações do curso de Git/GitHub"
 
+Para que a pasta apareça no Git/GitHub
+
+git push origin main
 
  

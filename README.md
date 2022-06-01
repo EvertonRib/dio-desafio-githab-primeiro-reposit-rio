@@ -1,2 +1,6 @@
-# dio-desafio-githab-primeiro-reposit-rio
-Desafio de projeto sobre Git/Githab
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para Desafio de projeto.
+
+## Links Úteis
+
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
